@@ -37,7 +37,7 @@ The project is easy to setup and run.
 - Secondly having anaconda setup on your system is highly recommended.
 - Install the project dependencies using the `requirement.txt` file: (or do it through the notebook)
   
-  ```python
+  ```bash
   pip install -r requirements.txt
   ```
 - Run the notebook cells one after the other.
