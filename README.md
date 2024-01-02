@@ -9,7 +9,7 @@ It is a simple project which makes use of a simple architecture in order to corr
 * [Project description](#MNIST-Digit-Classifier)
 * [Technologies used](#technologies)
 * [Setup](#setup)
-* [Image example]
+* [Image example](#Here_is_an_example_of_the_model_being_used_to_predict_the_digit_written_in_an_image:)
 
 
 ## Technologies
