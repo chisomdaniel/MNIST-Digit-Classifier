@@ -40,7 +40,7 @@ The project is easy to setup and run.
   ```python
   pip install -r requirements.txt
   ```
-- Run the notebook cell by cell.
+- Run the notebook cells one after the other.
 
 ### Here is an example of the model being used to predict the digit written in an image:
 ![test](./images/test.png)
