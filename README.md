@@ -42,6 +42,6 @@ The project is easy to setup and run.
   ```
 - Run the notebook cell by cell.
 
-### Here is an example of the model being used to predict the digit written in an image:
+### Here is an example of the model being used to predict the digit written in an image
 ![test](./images/test.png)
   
