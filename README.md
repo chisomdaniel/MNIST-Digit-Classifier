@@ -1,5 +1,6 @@
 # MNIST-Digit-Classifier
-This is an image classification project that classify handwritten digits using the MNIST dataset.  
+This is an image classification project that classify handwritten digits using the MNIST dataset. 
+  
 It is a simple project which makes use of a simple architecture in order to correctly classify handwritten digits with a high test accuracy of 97%.
 
 ![accuracy score](./images/accuracy.png)
@@ -28,6 +29,7 @@ The project is easy to setup and run.
 - First you want to ensure you have python installed on your machine.
 - Secondly having anaconda setup on your system is highly recommended.
 - Install the project dependencies using the `requirement.txt` file: (or do it through the notebook)
+  
   ```python
   pip install -r requirements.txt
   ```
